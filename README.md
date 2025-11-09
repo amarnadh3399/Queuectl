@@ -1,4 +1,4 @@
-# 🧠 QueueCTL – CLI-Based Background Job Queue System
+#  QueueCTL – CLI-Based Background Job Queue System
 
 **QueueCTL** is a command-line job queue system designed to manage background tasks with multiple workers, retries (using exponential backoff), and a Dead Letter Queue (DLQ) for permanently failed jobs.  
 
@@ -6,7 +6,7 @@ It is built as part of the **Backend Developer Internship Assignment** and demon
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Language:** Python 3.9+
 - **Database:** SQLite (persistent local storage)
@@ -15,7 +15,7 @@ It is built as part of the **Backend Developer Internship Assignment** and demon
 
 ---
 
-## 🎯 Features
+## Features
 
 ✅ Enqueue and manage background jobs  
 ✅ Multiple worker processes  
@@ -28,7 +28,7 @@ It is built as part of the **Backend Developer Internship Assignment** and demon
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ```bash
 # Clone repository
